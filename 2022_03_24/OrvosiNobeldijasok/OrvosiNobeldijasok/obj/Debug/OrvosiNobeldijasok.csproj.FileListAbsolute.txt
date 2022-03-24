@@ -1,0 +1,7 @@
+Z:\2021_2022\Programozás\2022_03_24\OrvosiNobeldijasok\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.exe.config
+Z:\2021_2022\Programozás\2022_03_24\OrvosiNobeldijasok\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.exe
+Z:\2021_2022\Programozás\2022_03_24\OrvosiNobeldijasok\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.pdb
+Z:\2021_2022\Programozás\2022_03_24\OrvosiNobeldijasok\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.csprojAssemblyReference.cache
+Z:\2021_2022\Programozás\2022_03_24\OrvosiNobeldijasok\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.csproj.CoreCompileInputs.cache
+Z:\2021_2022\Programozás\2022_03_24\OrvosiNobeldijasok\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.exe
+Z:\2021_2022\Programozás\2022_03_24\OrvosiNobeldijasok\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.pdb
